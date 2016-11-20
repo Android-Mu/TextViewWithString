@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TextViewWithString</string>
+
+    <string name="tv_shdow">TextView阴影效果</string>
+
+    <!-- 有多个变量，只需要改变%后面的数字即可 -->
+    <string name="xliff_1">欢迎%1$s的加入,我们是%2$s</string>
+
+    <string name="line_font"><u>下划线</u>和字体设置</string>
+</resources>
